@@ -39,7 +39,7 @@ To use and run this project, ensure you have the following:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/ritik7545/walmart-sales-analysis.git
+    https://github.com/aditya7042004/walmart_saleData_analysis_SQL.git
 
 
 
@@ -47,7 +47,7 @@ To use and run this project, ensure you have the following:
 
 You can explore more about my projects, skills, and achievements through my personal portfolio here:
 
-- **Portfolio**: (https://ritiksah.netlify.app/)
+- **Portfolio**: 
 
 ## LinkedIn Profile
 
