@@ -53,6 +53,6 @@ You can explore more about my projects, skills, and achievements through my pers
 
 For professional updates, career-related content, and networking, connect with me on LinkedIn:
 
-- **LinkedIn**: (https://www.linkedin.com/in/ritikkumarsah/)
+- **LinkedIn**: (https://www.linkedin.com/in/aditya-yadav-398902245/)
 
 Thank you for visiting my portfolio!
